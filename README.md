@@ -1,6 +1,6 @@
 # Number Recognition Neural Net
 
-A barebone neural network classifier for recognizing numbers from the [MNIST database](http://yann.lecun.com/exdb/mnist/).
+A neural network classifier for recognizing numbers from the [MNIST database](http://yann.lecun.com/exdb/mnist/).
 
 ## To Run
 Using Python 3.7 or greater:
